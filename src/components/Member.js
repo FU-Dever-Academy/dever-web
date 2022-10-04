@@ -9,13 +9,13 @@ function Member(props) {
           <span className="text-secondary text-2xl mb-5">K{member.k}</span>
           <div className="drop-shadow-xl">
             <a
-              href="https://github.com/"
+              href={member.link}
               target="_blank"
               className="outline-none"
             >
               <img
                 className="w-64 h-64 rounded-full border-white border-8 border-solid hover:scale-105 transition-all object-cover"
-                src={require("../assets/images/"+ member.img +".jpeg")}
+                src={require("../assets/images/humans/"+ member.img +".jpg")}
                 alt=""
               />
             </a>

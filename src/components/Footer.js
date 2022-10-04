@@ -19,8 +19,8 @@ function Footer() {
             </div>
             <div className="mb-2 hover:text-secondary transition-all">
               <i className="fa-solid fa-envelope text-sm w-3"></i>
-              <a className="footer__link text-lg ml-2" href="mailto:thangtvb.dev@gmail.com">
-                thangtvb.dev@gmail.com
+              <a className="footer__link text-lg ml-2" href="mailto:club.dever@gmail.com">
+              club.dever@gmail.com
               </a>
             </div>
             <div className="mb-2 hover:text-secondary transition-all w-80">
@@ -40,9 +40,8 @@ function Footer() {
             </div>
             <div className="w-1/2 flex flex-col">
                 <p className="lg:mb-9 mb-2 text-lg font-semibold lg:h-11">Kết nối</p>
-                <a className="text-lg mb-2 hover:text-secondary transition-all" href="">Facebook</a>
-                <a className="text-lg mb-2 hover:text-secondary transition-all" href="">Instagram</a>
-                <a className="text-lg mb-2 hover:text-secondary transition-all" href="">Github</a>
+                <a className="text-lg mb-2 hover:text-secondary transition-all" href="https://www.facebook.com/FPTUDever">Facebook</a>
+                <a className="text-lg mb-2 hover:text-secondary transition-all" href="https://github.com/fu-dever-club">Github</a>
             </div>
           </div>
         </div>

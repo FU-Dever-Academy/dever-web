@@ -20,15 +20,17 @@ function Banner() {
               Câu lạc bộ lập trình Dever mở đơn tuyển thành viên
             </p>
             <p className="text-lg lg:text-end text-center">
-              <strong className="text-center">Đối tượng:</strong> sinh viên Đại học FPT có sở thích, đam
-              mê với lập trình
+              <strong className="text-center">Đối tượng:</strong> sinh viên Đại
+              học FPT có sở thích, đam mê với lập trình
             </p>
             <strong className="text-lg text-center">
-              Thời gian đăng kí: 20/07/2022 - 25/07/2022
+              Thời gian đăng kí: 03/09/2022 - 30/09/2022
             </strong>
-            <button className="text-lg lg:mt-9 mt-3 py-3 px-8 text-primary bg-white border-2 border-primary rounded-full hover:bg-primary hover:text-white hover:scale-105 transition-all">
-              Đăng kí ngay
-            </button>
+            <a href="https://www.facebook.com/FPTUDever">
+              <button className="text-lg lg:mt-9 mt-3 py-3 px-8 text-primary bg-white border-2 border-primary rounded-full hover:bg-primary hover:text-white hover:scale-105 transition-all">
+                Đăng kí ngay
+              </button>
+            </a>
           </div>
         </div>
       </div>
